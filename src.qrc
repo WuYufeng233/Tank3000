@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>pixs/1_1.png</file>
+        <file>pixs/2_1.png</file>
+        <file>pixs/4.png</file>
+        <file>pixs/enemy1D.png</file>
+        <file>pixs/enemy1L.png</file>
+        <file>pixs/enemy1R.png</file>
+        <file>pixs/enemy1U.png</file>
+        <file>pixs/enemy2D.png</file>
+        <file>pixs/enemy2L.png</file>
+        <file>pixs/enemy2R.png</file>
+        <file>pixs/enemy2U.png</file>
+        <file>pixs/enemy3D.png</file>
+        <file>pixs/enemy3L.png</file>
+        <file>pixs/enemy3R.png</file>
+        <file>pixs/enemy3U.png</file>
+        <file>pixs/p1tankD.png</file>
+        <file>pixs/p1tankL.png</file>
+        <file>pixs/p1tankR.png</file>
+        <file>pixs/p1tankU.png</file>
+        <file>pixs/start.png</file>
+        <file>pixs/tankMissile.png</file>
+        <file>pixs/3.png</file>
+        <file>pixs/5.png</file>
+        <file>pixs/boss.png</file>
+    </qresource>
+</RCC>
